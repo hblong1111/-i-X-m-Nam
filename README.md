@@ -34,12 +34,6 @@
 - **6.3.** Các chi phí bao gồm phí sân bãi, trang phục, dụng cụ tập luyện, và các chi phí khác liên quan đến hoạt động của đội.
 - **6.4.** Các thành viên sẽ được thông báo về các khoản chi phí định kỳ và phải hoàn thành đúng hạn.
 
-### 7. Quy định về An toàn
-- **7.1.** Thành viên phải tuân thủ các quy định về an toàn trong quá trình tập luyện và thi đấu.
-- **7.2.** Thành viên cần báo cáo ngay với đội trưởng hoặc người phụ trách nếu có bất kỳ sự cố hoặc tai nạn nào xảy ra.
-- **7.3.** Các thành viên phải tự trang bị bảo hộ cá nhân như ống lót, băng gối, và các dụng cụ bảo vệ khác.
-- **7.4.** Trong trường hợp chấn thương, thành viên phải báo cáo ngay và tuân thủ chỉ định của y tế.
-
 ### 8. Quy định về Giao tiếp
 - **8.1.** Thành viên phải giao tiếp lịch sự, tôn trọng lẫn nhau và tránh các hành vi xúc phạm, phân biệt đối xử.
 - **8.2.** Mọi thắc mắc, góp ý hoặc khiếu nại phải được trình bày một cách xây dựng và lịch sự với đội trưởng hoặc ban lãnh đạo đội bóng.
