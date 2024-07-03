@@ -1,4 +1,4 @@
-## NỘI QUY ĐỘI BÓNG ĐÁ
+## NỘI QUY FC XÓM NAM
 
 ### 1. Mục đích và Tôn chỉ
 - **1.1.** Đội bóng đá được thành lập với mục đích rèn luyện sức khỏe, giao lưu học hỏi, và thắt chặt tình đoàn kết giữa các thành viên.
